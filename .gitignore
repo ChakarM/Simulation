@@ -1,0 +1,18 @@
+# --- IntelliJ IDEA Files ---
+.idea/
+*.iml
+*.iws
+*.ipr
+!/.idea/runConfigurations/
+!/.idea/modules.xml
+
+# --- Build Outputs ---
+out/
+target/
+build/
+.gradle/
+
+# --- System and OS Files ---
+.DS_Store
+Thumbs.db
+*.log
